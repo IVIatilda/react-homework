@@ -1,0 +1,271 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[3]!./src/app/components/Filters/styles.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************/
+.styles_filter__HTVXv {
+  display: flex;
+  padding: 24px;
+  flex-direction: column;
+  gap: 20px;
+  border-radius: 8px;
+  background: #fff;
+  min-height: 100%;
+  width: 408px;
+  flex-shrink: 0;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 24px;
+}
+
+.styles_filterHeader__nLwFJ {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+}
+
+.styles_filterItem__ch29i label {
+  margin-bottom: 5px;
+  font-size: 14px;
+  line-height: 20px;
+  display: block;
+}
+
+.styles_filterItem__ch29i input,
+.styles_filterItem__ch29i select {
+  border-radius: 8px;
+  border: 1px solid var(--border-default, #e1e3e6);
+  background: var(--background-primary, #fff);
+  height: 40px;
+  padding: 10px 16px;
+  width: 100%;
+  box-sizing: border-box;
+  display: block;
+  font-size: 14px;
+}
+
+.styles_filterItem__ch29i select {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  background-repeat: no-repeat;
+  background-position: calc(100% - 8px) 8px;
+  background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M7.50008 18.9583H12.5001C17.0251 18.9583 18.9584 17.025 18.9584 12.5V7.49996C18.9584 2.97496 17.0251 1.04163 12.5001 1.04163H7.50008C2.97508 1.04163 1.04175 2.97496 1.04175 7.49996V12.5C1.04175 17.025 2.97508 18.9583 7.50008 18.9583ZM2.29175 7.49996C2.29175 3.65829 3.65841 2.29163 7.50008 2.29163H12.5001C16.3417 2.29163 17.7084 3.65829 17.7084 7.49996V12.5C17.7084 16.3416 16.3417 17.7083 12.5001 17.7083H7.50008C3.65841 17.7083 2.29175 16.3416 2.29175 12.5V7.49996ZM9.55842 12.2417C9.68342 12.3667 9.84175 12.4251 10.0001 12.4251C10.1584 12.4251 10.3168 12.3667 10.4418 12.2417L13.3834 9.30006C13.6251 9.05839 13.6251 8.65839 13.3834 8.41672C13.1418 8.17506 12.7418 8.17506 12.5001 8.41672L10.0001 10.9167L7.50008 8.41672C7.25842 8.17506 6.85842 8.17506 6.61675 8.41672C6.37508 8.65839 6.37508 9.05839 6.61675 9.30006L9.55842 12.2417Z' fill='%23999FA6'/%3E%3C/svg%3E");
+}
+
+/*!************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[3]!./src/app/components/Modal/styles.module.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************/
+.styles_modal__nU9ZT {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #00000047;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.styles_modalContent__VoUIV {
+  border-radius: 8px;
+  background: var(--white, #fff);
+  padding: 24px;
+}
+
+.styles_modalTitle__siuCT {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 20px;
+}
+
+.styles_buttons__9D3Wy {
+  display: flex;
+  gap: 8px;
+}
+
+.styles_buttons__9D3Wy button {
+  padding: 10px 16px;
+  border: 0;
+  outline: none;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  border: 1px solid var(--orange, #f50);
+}
+
+.styles_buttonOrange__x7zFp {
+  background: var(--orange, #f50);
+  color: #fff;
+}
+
+.styles_buttonTransparent__q49JM {
+  background: #fff;
+  color: var(--orange, #F50);
+}
+
+/*!****************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[3]!./src/app/components/TicketBuy/styles.module.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************/
+.styles_filmTicket__Z6H26 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.styles_filmTicket__Z6H26 button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  border-radius: 4px;
+  background: var(--orange, #f50);
+  width: 20px;
+  height: 20px;
+  color: #fff;
+  padding: 0;
+  box-sizing: border-box;
+  border: 0;
+  outline: none;
+}
+
+.styles_filmTicket__Z6H26 button:disabled {
+  opacity: 0.5;
+}
+
+.styles_removeButton__D7ddh {
+  margin-left: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*!************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[3]!./src/app/components/Films/styles.module.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************/
+.styles_filmsList__pDea9 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+}
+
+.styles_filmImg__taRfg {
+  width: auto;
+  height: 120px;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+
+.styles_filmTitle__900GU {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 20px;
+  margin-bottom: 8px;
+}
+
+.styles_filmGenre__9VpxL {
+  font-size: 16px;
+  font-style: italic;
+  line-height: 20px;
+  margin: 10px 0;
+}
+
+.styles_filmItemImg__MKtc1 {
+  width: 400px;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+
+.styles_filmItemTitle__k__Aj {
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 32px;
+}
+
+.styles_filmItemText__j0qfk {
+    width: 100%;
+}
+
+.styles_buyTicket__vHSJy {
+    position: absolute;
+    top: 24px;
+    right: 24px;
+}
+
+.styles_filmItemHeader__5uCfu {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-bottom: 24px;
+}
+
+.styles_filmItemShortDesc__ltB9P {
+    margin-bottom: 32px;
+}
+
+.styles_filmItemShortDesc__ltB9P p,
+.styles_filmItemDesc__7L2Xr p strong {
+    font-size: 20px;
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[3]!./src/app/components/Header/styles.module.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************/
+.styles_header__2teTB {
+  display: flex;
+  padding: 24px 32px;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--gray-1, #333);
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.styles_logo__5o_pi {
+  color: #fff;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.styles_cart__zg2YL {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.styles_cart__zg2YL span {
+  border-radius: 8px;
+  background: var(--orange, #F50);
+  display: inline-flex;
+  width: 28px;
+  height: 28px;
+  padding: 4px;
+  justify-content: center;
+  align-items: center;
+  color: var(--white, #FFF);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+}
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[3]!./src/app/components/Footer/styles.module.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************/
+.styles_footer__FL_Kq {
+  background: var(--gray-1, #333);
+  display: flex;
+  padding: 24px 32px;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.styles_link__CssbD {
+  color: #fff;
+  font-size: 20px;
+}
+

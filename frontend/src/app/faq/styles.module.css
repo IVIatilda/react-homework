@@ -1,0 +1,26 @@
+.faqList {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.faqHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.faqTitle {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+}
+
+.faqHeader svg {
+  cursor: pointer;
+}
+
+.faqHeader .active {
+  transform: rotate(180deg);
+}

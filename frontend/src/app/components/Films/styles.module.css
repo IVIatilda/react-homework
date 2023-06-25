@@ -1,0 +1,65 @@
+.filmsList {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+}
+
+.filmImg {
+  width: auto;
+  height: 120px;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+
+.filmTitle {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 20px;
+  margin-bottom: 8px;
+}
+
+.filmGenre {
+  font-size: 16px;
+  font-style: italic;
+  line-height: 20px;
+  margin: 10px 0;
+}
+
+.filmItemImg {
+  width: 400px;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+
+.filmItemTitle {
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 32px;
+}
+
+.filmItemText {
+    width: 100%;
+}
+
+.buyTicket {
+    position: absolute;
+    top: 24px;
+    right: 24px;
+}
+
+.filmItemHeader {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-bottom: 24px;
+}
+
+.filmItemShortDesc {
+    margin-bottom: 32px;
+}
+
+.filmItemShortDesc p,
+.filmItemDesc p strong {
+    font-size: 20px;
+}

@@ -1,0 +1,32 @@
+.filmTicket {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.filmTicket button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  border-radius: 4px;
+  background: var(--orange, #f50);
+  width: 20px;
+  height: 20px;
+  color: #fff;
+  padding: 0;
+  box-sizing: border-box;
+  border: 0;
+  outline: none;
+}
+
+.filmTicket button:disabled {
+  opacity: 0.5;
+}
+
+.removeButton {
+  margin-left: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
